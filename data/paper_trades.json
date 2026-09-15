@@ -1,7 +1,8 @@
 {
   "starting_equity_usd": 10.0,
-  "cash_usd": 8.5,
-  "open_positions": [
+  "cash_usd": 9.707111,
+  "open_positions": [],
+  "closed_trades": [
     {
       "symbol": "STEALF",
       "mint": "G5W6LwkLeoj6rZqBP1y3KT8k6Cz6rXGJmMNU3TArXtXw",
@@ -13,12 +14,17 @@
       "notional_usd": 1.5,
       "tokens": 1738.4469525329916,
       "peak_price_usd": 0.0008564,
-      "unrealized_pnl_usd": -0.0541,
-      "risk_budget_usd": 0.15
+      "unrealized_pnl_usd": -0.2838,
+      "risk_budget_usd": 0.15,
+      "exit_time": "2026-09-15T19:00:31.729543+00:00",
+      "exit_market_price_usd": 0.0006996,
+      "exit_fill_price_usd": 0.000696102,
+      "pnl_usd": -0.2929,
+      "pnl_pct": -19.53,
+      "exit_reason": "stop_loss"
     }
   ],
-  "closed_trades": [],
   "created_at": "2026-09-15T13:42:22.160338+00:00",
-  "consecutive_losses": 0,
+  "consecutive_losses": 1,
   "paused_date": null
 }
