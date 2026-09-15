@@ -1,7 +1,22 @@
 {
   "starting_equity_usd": 10.0,
-  "cash_usd": 9.707111,
-  "open_positions": [],
+  "cash_usd": 8.251044,
+  "open_positions": [
+    {
+      "symbol": "CASHCAT",
+      "mint": "GEVexg2fEpmjsuA9rJjX24baCP69oJ4B7Dp1rNhYpump",
+      "pair_address": "AcwsDGc5wn3L4Nt1YvJau4HN7g89rhuich6MVCm6cfRY",
+      "pair_url": "https://dexscreener.com/solana/acwsdgc5wn3l4nt1yvjau4hn7g89rhuich6mvcm6cfry",
+      "entry_time": "2026-09-15T19:20:49.456791+00:00",
+      "entry_market_price_usd": 0.0003367,
+      "entry_fill_price_usd": 0.00033838349999999994,
+      "notional_usd": 1.4561,
+      "tokens": 4292.249720731064,
+      "peak_price_usd": 0.0003367,
+      "unrealized_pnl_usd": 0.0,
+      "risk_budget_usd": 0.15
+    }
+  ],
   "closed_trades": [
     {
       "symbol": "STEALF",

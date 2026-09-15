@@ -13,3 +13,5 @@
 2026-09-15 19:05:45,375 [INFO] run_once: Found 0 candidates.
 2026-09-15 19:10:48,386 [INFO] run_once: Found 0 candidates.
 2026-09-15 19:15:47,776 [INFO] run_once: Found 0 candidates.
+2026-09-15 19:20:49,456 [INFO] run_once: Found 1 candidates.
+2026-09-15 19:20:49,459 [INFO] trade_executor: [paper] opened CASHCAT for $1.46 at $0.0003367
