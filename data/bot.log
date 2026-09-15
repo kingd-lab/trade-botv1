@@ -4,3 +4,5 @@
 2026-09-15 18:35:40,965 [INFO] run_once: Found 0 candidates.
 2026-09-15 18:37:50,751 [INFO] run_once: Found 0 candidates.
 2026-09-15 18:40:48,767 [INFO] run_once: Found 0 candidates.
+2026-09-15 18:45:43,882 [INFO] run_once: Found 1 candidates.
+2026-09-15 18:45:43,884 [INFO] trade_executor: [paper] opened STEALF for $1.50 at $0.0008564
