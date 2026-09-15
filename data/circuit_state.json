@@ -1,6 +1,6 @@
 {
   "consecutive_errors": 0,
-  "consecutive_losses": 1,
+  "consecutive_losses": 2,
   "tripped": false,
   "tripped_reason": null,
   "tripped_at": null

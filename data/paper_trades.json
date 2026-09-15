@@ -1,21 +1,7 @@
 {
   "starting_equity_usd": 10.0,
-  "cash_usd": 6.804061,
+  "cash_usd": 8.039493,
   "open_positions": [
-    {
-      "symbol": "CASHCAT",
-      "mint": "GEVexg2fEpmjsuA9rJjX24baCP69oJ4B7Dp1rNhYpump",
-      "pair_address": "AcwsDGc5wn3L4Nt1YvJau4HN7g89rhuich6MVCm6cfRY",
-      "pair_url": "https://dexscreener.com/solana/acwsdgc5wn3l4nt1yvjau4hn7g89rhuich6mvcm6cfry",
-      "entry_time": "2026-09-15T19:20:49.456791+00:00",
-      "entry_market_price_usd": 0.0003367,
-      "entry_fill_price_usd": 0.00033838349999999994,
-      "notional_usd": 1.4561,
-      "tokens": 4292.249720731064,
-      "peak_price_usd": 0.0003367,
-      "unrealized_pnl_usd": -0.0302,
-      "risk_budget_usd": 0.15
-    },
     {
       "symbol": "TROLLP",
       "mint": "FMSRDb6ZnCec5RGMjbGNwMTCNmoB718HEKNzkdgtpump",
@@ -27,7 +13,7 @@
       "notional_usd": 1.447,
       "tokens": 2320.9192273924496,
       "peak_price_usd": 0.0006188,
-      "unrealized_pnl_usd": 0.0,
+      "unrealized_pnl_usd": -0.0918,
       "risk_budget_usd": 0.15
     }
   ],
@@ -51,9 +37,29 @@
       "pnl_usd": -0.2929,
       "pnl_pct": -19.53,
       "exit_reason": "stop_loss"
+    },
+    {
+      "symbol": "CASHCAT",
+      "mint": "GEVexg2fEpmjsuA9rJjX24baCP69oJ4B7Dp1rNhYpump",
+      "pair_address": "AcwsDGc5wn3L4Nt1YvJau4HN7g89rhuich6MVCm6cfRY",
+      "pair_url": "https://dexscreener.com/solana/acwsdgc5wn3l4nt1yvjau4hn7g89rhuich6mvcm6cfry",
+      "entry_time": "2026-09-15T19:20:49.456791+00:00",
+      "entry_market_price_usd": 0.0003367,
+      "entry_fill_price_usd": 0.00033838349999999994,
+      "notional_usd": 1.4561,
+      "tokens": 4292.249720731064,
+      "peak_price_usd": 0.0003367,
+      "unrealized_pnl_usd": -0.2113,
+      "risk_budget_usd": 0.15,
+      "exit_time": "2026-09-15T19:30:31.792013+00:00",
+      "exit_market_price_usd": 0.00029,
+      "exit_fill_price_usd": 0.00028855,
+      "pnl_usd": -0.2207,
+      "pnl_pct": -15.15,
+      "exit_reason": "stop_loss"
     }
   ],
   "created_at": "2026-09-15T13:42:22.160338+00:00",
-  "consecutive_losses": 1,
+  "consecutive_losses": 2,
   "paused_date": null
 }
