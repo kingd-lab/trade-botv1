@@ -15,3 +15,5 @@
 2026-09-15 19:15:47,776 [INFO] run_once: Found 0 candidates.
 2026-09-15 19:20:49,456 [INFO] run_once: Found 1 candidates.
 2026-09-15 19:20:49,459 [INFO] trade_executor: [paper] opened CASHCAT for $1.46 at $0.0003367
+2026-09-15 19:25:47,711 [INFO] run_once: Found 1 candidates.
+2026-09-15 19:25:47,713 [INFO] trade_executor: [paper] opened TROLLP for $1.45 at $0.0006188

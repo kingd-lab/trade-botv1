@@ -1,6 +1,6 @@
 {
   "starting_equity_usd": 10.0,
-  "cash_usd": 8.251044,
+  "cash_usd": 6.804061,
   "open_positions": [
     {
       "symbol": "CASHCAT",
@@ -13,6 +13,20 @@
       "notional_usd": 1.4561,
       "tokens": 4292.249720731064,
       "peak_price_usd": 0.0003367,
+      "unrealized_pnl_usd": -0.0302,
+      "risk_budget_usd": 0.15
+    },
+    {
+      "symbol": "TROLLP",
+      "mint": "FMSRDb6ZnCec5RGMjbGNwMTCNmoB718HEKNzkdgtpump",
+      "pair_address": "2fBeTrF5UEY4uWpwkKveaeRPH3yR4ixHyCr1xzniEE9m",
+      "pair_url": "https://dexscreener.com/solana/2fbetrf5uey4uwpwkkveaerph3yr4ixhycr1xzniee9m",
+      "entry_time": "2026-09-15T19:25:47.712314+00:00",
+      "entry_market_price_usd": 0.0006188,
+      "entry_fill_price_usd": 0.0006218939999999999,
+      "notional_usd": 1.447,
+      "tokens": 2320.9192273924496,
+      "peak_price_usd": 0.0006188,
       "unrealized_pnl_usd": 0.0,
       "risk_budget_usd": 0.15
     }
