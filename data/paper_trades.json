@@ -1,22 +1,7 @@
 {
   "starting_equity_usd": 10.0,
-  "cash_usd": 8.039493,
-  "open_positions": [
-    {
-      "symbol": "TROLLP",
-      "mint": "FMSRDb6ZnCec5RGMjbGNwMTCNmoB718HEKNzkdgtpump",
-      "pair_address": "2fBeTrF5UEY4uWpwkKveaeRPH3yR4ixHyCr1xzniEE9m",
-      "pair_url": "https://dexscreener.com/solana/2fbetrf5uey4uwpwkkveaerph3yr4ixhycr1xzniee9m",
-      "entry_time": "2026-09-15T19:25:47.712314+00:00",
-      "entry_market_price_usd": 0.0006188,
-      "entry_fill_price_usd": 0.0006218939999999999,
-      "notional_usd": 1.447,
-      "tokens": 2320.9192273924496,
-      "peak_price_usd": 0.0006188,
-      "unrealized_pnl_usd": -0.0918,
-      "risk_budget_usd": 0.15
-    }
-  ],
+  "cash_usd": 9.188039,
+  "open_positions": [],
   "closed_trades": [
     {
       "symbol": "STEALF",
@@ -57,9 +42,29 @@
       "pnl_usd": -0.2207,
       "pnl_pct": -15.15,
       "exit_reason": "stop_loss"
+    },
+    {
+      "symbol": "TROLLP",
+      "mint": "FMSRDb6ZnCec5RGMjbGNwMTCNmoB718HEKNzkdgtpump",
+      "pair_address": "2fBeTrF5UEY4uWpwkKveaeRPH3yR4ixHyCr1xzniEE9m",
+      "pair_url": "https://dexscreener.com/solana/2fbetrf5uey4uwpwkkveaerph3yr4ixhycr1xzniee9m",
+      "entry_time": "2026-09-15T19:25:47.712314+00:00",
+      "entry_market_price_usd": 0.0006188,
+      "entry_fill_price_usd": 0.0006218939999999999,
+      "notional_usd": 1.447,
+      "tokens": 2320.9192273924496,
+      "peak_price_usd": 0.0006188,
+      "unrealized_pnl_usd": -0.2898,
+      "risk_budget_usd": 0.15,
+      "exit_time": "2026-09-15T19:35:29.960833+00:00",
+      "exit_market_price_usd": 0.0004986,
+      "exit_fill_price_usd": 0.000496107,
+      "pnl_usd": -0.2985,
+      "pnl_pct": -20.63,
+      "exit_reason": "stop_loss"
     }
   ],
   "created_at": "2026-09-15T13:42:22.160338+00:00",
-  "consecutive_losses": 2,
-  "paused_date": null
+  "consecutive_losses": 3,
+  "paused_date": "2026-09-15"
 }

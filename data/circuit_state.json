@@ -1,7 +1,7 @@
 {
   "consecutive_errors": 0,
-  "consecutive_losses": 2,
-  "tripped": false,
-  "tripped_reason": null,
-  "tripped_at": null
+  "consecutive_losses": 3,
+  "tripped": true,
+  "tripped_reason": "3 consecutive losing paper trades",
+  "tripped_at": "2026-09-15T19:35:30.262887+00:00"
 }
