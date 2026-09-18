@@ -853,3 +853,4 @@
 2026-09-18 16:50:31,394 [WARNING] run_once: Circuit breaker already tripped: 3 consecutive losing paper trades
 2026-09-18 16:55:25,061 [WARNING] run_once: Circuit breaker already tripped: 3 consecutive losing paper trades
 2026-09-18 17:00:35,702 [WARNING] run_once: Circuit breaker already tripped: 3 consecutive losing paper trades
+2026-09-18 17:05:30,153 [WARNING] run_once: Circuit breaker already tripped: 3 consecutive losing paper trades
